@@ -14,10 +14,10 @@ Full description of curriculum cand be found [here](https://masterdatascience.ub
     <tbody>
         <tr>
             <td align="center">1</td>
-            <td>Computing Platforms</td>
-            <td>Descriptive Statistics and Probability</td>
+            <td><a href="https://pages.github.ubc.ca/MDS-2022-23/DSCI_521_platforms-dsci_students/README.html">Computing Platforms</a></td>
+            <td><a href="https://pages.github.ubc.ca/MDS-2022-23/DSCI_551_stat-prob-dsci_students/">Descriptive Statistics and Probability</a></td>
             <td>Python for Data Science</td>
-            <td>R for Data Manipulation</td>
+            <td><a href="https://pages.github.ubc.ca/MDS-2022-23/DSCI_523_r-prog_students/README.html">R for Data Manipulation</a></td>
         </tr>
         <tr>
             <td align="center">2</td>
