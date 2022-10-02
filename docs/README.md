@@ -1,9 +1,6 @@
 
 ## MDS-CL Curriculum Overview 
 
-Full description of curriculum cand be found [here](https://masterdatascience.ubc.ca/programs/computational-linguistics)
-
-
 <table>
     <thead>
         <tr>
@@ -14,10 +11,10 @@ Full description of curriculum cand be found [here](https://masterdatascience.ub
     <tbody>
         <tr>
             <td align="center">1</td>
-            <td>Computing Platforms</td>
-            <td>Descriptive Statistics and Probability</td>
+            <td><a href="https://pages.github.ubc.ca/MDS-2022-23/DSCI_521_platforms-dsci_students/README.html">Computing Platforms</a></td>
+            <td><a href="https://pages.github.ubc.ca/MDS-2022-23/DSCI_551_stat-prob-dsci_students/">Descriptive Statistics and Probability</a></td>
             <td>Python for Data Science</td>
-            <td>R for Data Manipulation</td>
+            <td><a href="https://pages.github.ubc.ca/MDS-2022-23/DSCI_523_r-prog_students/README.html">R for Data Manipulation</a></td>
         </tr>
         <tr>
             <td align="center">2</td>
@@ -57,6 +54,11 @@ Full description of curriculum cand be found [here](https://masterdatascience.ub
     </tbody>
 </table>
 
+Full description of MDS-CL curriculum can be found [here](https://masterdatascience.ubc.ca/programs/computational-linguistics)
+
+Full description of MDS-Vancouver curriculum can be found [here](https://masterdatascience.ubc.ca/programs/vancouver)
+
+
 ---
 
 
@@ -65,8 +67,11 @@ Full description of curriculum cand be found [here](https://masterdatascience.ub
 Contributions always welcome. 
 
 1. Fork this repo.
-2. Add content in the corresponding file in the <code>notebooks</code>folder.
+2. Add content in the corresponding file in the <code>notebooks</code> folder.
 3. Export your file as <code>.md</code>. 
 4. Update the file in <code>docs > contents</code> with your export. 
 5. Create a pull request.
 
+*OR*
+
+1. Create an issue, and maybe someone else will do it someday. 
