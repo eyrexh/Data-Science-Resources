@@ -9,15 +9,59 @@ Collection of notes compiled during the MDS-CL program at UBC.
 
 Full description of curriculum cand be found [here](https://masterdatascience.ubc.ca/programs/computational-linguistics)
 
-|         | Courses                               |                                        |                                       |                           |
-|---------|---------------------------------------|----------------------------------------|---------------------------------------|---------------------------|
-| Block 1 | Computing Platforms                   | Descriptive Statistics and Probability | Python for Data Science               | R for Data Manipulation   |
-| Block 2 | Algorithms & Data Structures          | Data Visualization I                   | Statistical Inference and Computation | Supervised Learning       |
-| Block 3 | Corpus Linguistics                    | Databases & Data Retrieval             | Regression I                          | Feature & Model Selection |
-| Block 4 | Parsing for Computational Linguistics | Computational Semantics                | Unsupervised Learning                 | Supervised Learning II    |
-| Block 5 | Advanced Corpus Linguistics           | Computational Morphology               | Machine Translation                   | Sentiment Analysis        |
-| Block 6 | Advanced Computational Semantics      | NLP for Low-Resource Languages         | Trends in Computational Linguistics   | Privacy, Ethic, Security  |
 
+<table>
+    <thead>
+        <tr>
+            <th>Block</th>
+            <th colspan=4>Courses</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">1</td>
+            <td>Computing Platforms</td>
+            <td>Descriptive Statistics and Probability</td>
+            <td>Python for Data Science</td>
+            <td>R for Data Manipulation</td>
+        </tr>
+        <tr>
+            <td align="center">2</td>
+            <td>Algorithms & Data Structures</td>
+            <td>Data Visualization I</td>
+            <td>Statistical Inference and Computation</td>
+            <td>Supervised Learning</td>
+        </tr>
+        <tr>
+            <td align="center">3</td>
+            <td>Corpus Linguistics</td>
+            <td>Databases & Data Retrieval</td>
+            <td>Regression I</td>
+            <td>Feature & Model Selection</td>
+        </tr>
+        <tr>
+            <td align="center">4</td>
+            <td>Parsing for Computational Linguistics</td>
+            <td>Computational Semantics</td>
+            <td>Unsupervised Learning</td>
+            <td>Supervised Learning II</td>
+        </tr>
+        <tr>
+            <td align="center">5</td>
+            <td>Advanced Corpus Linguistics</td>
+            <td>Computational Morphology</td>
+            <td>Machine Translation</td>
+            <td>Sentiment Analysis</td>
+        </tr>
+        <tr>
+            <td align="center">6</td>
+            <td>Advanced Computational Semantics</td>
+            <td>NLP for Low-Resource Languages</td>
+            <td>Trends in Computational Linguistics</td>
+            <td>Privacy, Ethic, Security</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## How to contribute
