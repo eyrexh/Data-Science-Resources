@@ -1,9 +1,6 @@
 
 ## MDS-CL Curriculum Overview 
 
-Full description of curriculum cand be found [here](https://masterdatascience.ubc.ca/programs/computational-linguistics)
-
-
 <table>
     <thead>
         <tr>
@@ -56,6 +53,11 @@ Full description of curriculum cand be found [here](https://masterdatascience.ub
         </tr>
     </tbody>
 </table>
+
+Full description of MDS-CL curriculum can be found [here](https://masterdatascience.ubc.ca/programs/computational-linguistics)
+
+Full description of MDS-Vancouver curriculum can be found [here](https://masterdatascience.ubc.ca/programs/vancouver)
+
 
 ---
 
