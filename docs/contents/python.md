@@ -4,3 +4,11 @@ title:  "Python"
 ---
 
 Python
+
+
+# Python
+
+
+```python
+
+```
