@@ -1,9 +1,3 @@
-# Data-Science-Resources
-
-Collection of notes compiled during the MDS-CL program at UBC. 
-
-[Click here](https://jaeihn.github.io/Data-Science-Resources/) to go to the published Github Page.
-
 
 ## MDS-CL Curriculum Overview 
 
@@ -62,6 +56,8 @@ Full description of curriculum cand be found [here](https://masterdatascience.ub
         </tr>
     </tbody>
 </table>
+
+---
 
 
 ## How to contribute
