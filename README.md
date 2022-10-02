@@ -5,10 +5,9 @@ Collection of notes compiled during the MDS-CL program at UBC.
 [Click here](https://jaeihn.github.io/Data-Science-Resources/) to go to the published Github Page.
 
 
-
+## MDS-CL Curriculum Overview 
 
 Full description of curriculum cand be found [here](https://masterdatascience.ubc.ca/programs/computational-linguistics)
-
 
 |         | Courses                               |                                        |                                       |                           |
 |---------|---------------------------------------|----------------------------------------|---------------------------------------|---------------------------|
@@ -18,3 +17,9 @@ Full description of curriculum cand be found [here](https://masterdatascience.ub
 | Block 4 | Parsing for Computational Linguistics | Computational Semantics                | Unsupervised Learning                 | Supervised Learning II    |
 | Block 5 | Advanced Corpus Linguistics           | Computational Morphology               | Machine Translation                   | Sentiment Analysis        |
 | Block 6 | Advanced Computational Semantics      | NLP for Low-Resource Languages         | Trends in Computational Linguistics   | Privacy, Ethic, Security  |
+
+
+
+## How to contribute
+
+(...) 
