@@ -1,5 +1,5 @@
 
-## MDS-CL Curriculum Overview 
+## MDS Curriculum Overview
 
 <table>
     <thead>
@@ -21,43 +21,71 @@
             <td>Algorithms & Data Structures</td>
             <td>Data Visualization I</td>
             <td>Statistical Inference and Computation</td>
-            <td>Supervised Learning</td>
+            <td>Supervised Learning I</td>
         </tr>
         <tr>
             <td align="center">3</td>
-            <td>Corpus Linguistics</td>
+            <td><img src="https://img.shields.io/badge/MDS--CL-3DDC84?style=flat" /> Corpus Linguistics <br />
+            <img src="https://img.shields.io/badge/MDS--V-FF4B4B?style=flat" /> Data Science Workflows
+            </td>
             <td>Databases & Data Retrieval</td>
             <td>Regression I</td>
             <td>Feature & Model Selection</td>
         </tr>
         <tr>
             <td align="center">4</td>
-            <td>Parsing for Computational Linguistics</td>
-            <td>Computational Semantics</td>
-            <td>Unsupervised Learning</td>
+            <td>
+            <img src="https://img.shields.io/badge/MDS--CL-3DDC84?style=flat" /> Parsing for Computational Linguistics <br />
+            <img src="https://img.shields.io/badge/MDS--V-FF4B4B?style=flat" /> Collaborative Software Development
+            </td>
+            <td>
+             <img src="https://img.shields.io/badge/MDS--CL-3DDC84?style=flat" /> Computational Semantics <br />
+            <img src="https://img.shields.io/badge/MDS--V-FF4B4B?style=flat" /> Communication and Argumentation
+            </td>
+            <td>
+             <img src="https://img.shields.io/badge/MDS--CL-3DDC84?style=flat" /> Unsupervised Learning <br />
+            <img src="https://img.shields.io/badge/MDS--V-FF4B4B?style=flat" /> Regression II</td>
             <td>Supervised Learning II</td>
         </tr>
         <tr>
             <td align="center">5</td>
-            <td>Advanced Corpus Linguistics</td>
-            <td>Computational Morphology</td>
-            <td>Machine Translation</td>
-            <td>Sentiment Analysis</td>
+            <td>
+             <img src="https://img.shields.io/badge/MDS--CL-3DDC84?style=flat" /> Corpus Linguistics <br />
+            <img src="https://img.shields.io/badge/MDS--V-FF4B4B?style=flat" /> Data Visualization II
+            </td>
+            <td>
+             <img src="https://img.shields.io/badge/MDS--CL-3DDC84?style=flat" /> Computational Morphology <br />
+            <img src="https://img.shields.io/badge/MDS--V-FF4B4B?style=flat" /> Statistical Inference and Computation II
+            </td>
+            <td>
+             <img src="https://img.shields.io/badge/MDS--CL-3DDC84?style=flat" /> Machine Translation<br />
+            <img src="https://img.shields.io/badge/MDS--V-FF4B4B?style=flat" /> Unsupervised Learning
+            </td>
+            <td>
+             <img src="https://img.shields.io/badge/MDS--CL-3DDC84?style=flat" /> Sentiment Analysis <br />
+            <img src="https://img.shields.io/badge/MDS--V-FF4B4B?style=flat" /> Spatial and Temporal Models</td>
         </tr>
         <tr>
             <td align="center">6</td>
-            <td>Advanced Computational Semantics</td>
-            <td>NLP for Low-Resource Languages</td>
-            <td>Trends in Computational Linguistics</td>
+            <td>
+             <img src="https://img.shields.io/badge/MDS--CL-3DDC84?style=flat" /> Advanced Computational Semantics<br />
+            <img src="https://img.shields.io/badge/MDS--V-FF4B4B?style=flat" /> Web and Cloud Computing
+            </td>
+            <td>
+             <img src="https://img.shields.io/badge/MDS--CL-3DDC84?style=flat" /> NLP for Low-Resource Languages <br />
+            <img src="https://img.shields.io/badge/MDS--V-FF4B4B?style=flat" /> Experimentation and Causal Inference</td>
+            <td>
+             <img src="https://img.shields.io/badge/MDS--CL-3DDC84?style=flat" /> Trends in Computational Linguistics <br />
+            <img src="https://img.shields.io/badge/MDS--V-FF4B4B?style=flat" /> Advanced Machine Learning
+            </td>
             <td>Privacy, Ethic, Security</td>
         </tr>
     </tbody>
 </table>
 
-Full description of MDS-CL curriculum can be found [here](https://masterdatascience.ubc.ca/programs/computational-linguistics)
 
-Full description of MDS-Vancouver curriculum can be found [here](https://masterdatascience.ubc.ca/programs/vancouver)
-
+<p align="right"><img src="https://img.shields.io/badge/MDS--CL-3DDC84?style=flat" /><a href="https://masterdatascience.ubc.ca/programs/computational-linguistics"> Course descriptions for MDS-CL</a></p>
+<p align="right"><img src="https://img.shields.io/badge/MDS--V-FF4B4B?style=flat" /><a href="https://masterdatascience.ubc.ca/programs/vancouver"> Course descriptions for MDS-V</a></p>
 
 ---
 
@@ -75,3 +103,13 @@ Contributions always welcome.
 *OR*
 
 1. Create an issue, and maybe someone else will do it someday. 
+
+*OR* 
+
+1. Create your own book/compilation of notes, and we can link to each other's pages below.
+
+
+---
+
+
+## LINKS 
