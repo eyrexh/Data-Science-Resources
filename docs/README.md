@@ -84,8 +84,8 @@
 </table>
 
 
-<img src="https://img.shields.io/badge/MDS--CL-3DDC84?style=flat" /><a href="https://masterdatascience.ubc.ca/programs/computational-linguistics">Course descriptions for MDS-CL</a>
-<p align="right"><img src="https://img.shields.io/badge/MDS--V-FF4B4B?style=flat" /><a href="https://masterdatascience.ubc.ca/programs/vancouver">Course descriptions for MDS-V</a></p>
+<p align="right"><img src="https://img.shields.io/badge/MDS--CL-3DDC84?style=flat" /><a href="https://masterdatascience.ubc.ca/programs/computational-linguistics"> Course descriptions for MDS-CL</a></p>
+<p align="right"><img src="https://img.shields.io/badge/MDS--V-FF4B4B?style=flat" /><a href="https://masterdatascience.ubc.ca/programs/vancouver"> Course descriptions for MDS-V</a></p>
 
 ---
 
@@ -112,4 +112,4 @@ Contributions always welcome.
 ---
 
 
-# LINKS 
+## LINKS 
