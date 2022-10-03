@@ -6,14 +6,57 @@ title:  "git"
 # git commands
 
 
-|-------------------|-------------|
-| Commands          | Description |
-|-------------------|-------------|
-| git status        |             |
-| git log           |             |
-| git log --oneline |             |
-| git add           |             |
-|-------------------|-------------|
+<table>
+    <thead>
+        <tr>
+            <th>Command</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center"><code>git status</code></td>
+            <td>View staging area</td>
+        </tr>
+        <tr>
+            <td align="center"><code>git log</code></td>
+            <td>View commit history</td>
+        </tr>
+        <tr>
+            <td align="center"><code>git log --oneline</code></td>
+            <td>View commit history (minimal)</td>
+        </tr>
+        <tr>
+            <td align="center"><code>git log --graph --all --oneline</code></td>
+            <td>draw tree graph of commit history</td>
+        </tr>
+        <tr>
+            <td align="center"><code>git add {filename}</code></td>
+            <td>add file to staging area</td>
+        </tr>
+        <tr>
+            <td align="center"><code>git add -u</code></td>
+            <td>only add updates (and deletions)</td>
+        </tr>
+        <tr>
+            <td align="center"><code>git add -A</code></td>
+            <td>add everything available to staging area</td>
+        </tr>
+        <tr>
+            <td align="center"><code>git switch -c {branch}</code></td>
+            <td>create and switch to branch</td>
+        </tr>
+        <tr>
+            <td align="center"><code>git reset --hard {hash}</code></td>
+            <td>reset HEAD to previous commit</td>
+        </tr>
+        <tr>
+            <td align="center"><code>git push -f origin</code></td>
+            <td>Force reset commit to remote repo (deletes any commit history in between)</td>
+        </tr>
+    </tbody>
+</table>
+
 
 
 
